@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dsdsdsd"
+version = "0.1.0"
+description = ""
+authors = ["OleksandrZahar0vi4 <zaharovich007@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jinja2 = 
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
